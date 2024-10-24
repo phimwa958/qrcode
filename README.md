@@ -1,5 +1,5 @@
-Mini program to create and read qr code
-I'm using the venv environment. 
+#Mini program to create and read qr code
+##I'm using the venv environment(Not required but recommended)
 Create an environment:
 python -m venv venv
 Activate the environment:
